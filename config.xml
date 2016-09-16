@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.rpower.app"
+        versionCode = "10" 
+        version     = "1.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>RPOWER Bump Bar</name>
+
+    <description>
+        RPOWER KVS Bump Bar App
+    </description>
+
+    <author href="http://www.enhancepos.com" email="support@enhancepos.com">
+        Justin Meier
+    </author>
+
+	<platform name="android">
+	</platform> 
+	
+	<preference name="fullscreen" value="true" />
+
+	<preference name="orientation" value="landscape" />
+
+	<preference name="permissions" value="none" />
+	
+	
+</widget>
+
